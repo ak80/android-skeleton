@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skeleton APP</string>
+    <string name="about">The skeleton APP is a sample with Kotlin and Dagger2</string>
+    <string name="navigation_view_header_title">Entries</string>
+    <string name="list_title">Entry List</string>
+    <string name="info_title">Info</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_about">About</string>
+    <string name="entry_marked_complete">Entry marked complete</string>
+    <string name="entry_marked_active">Entry marked active</string>
+    <string name="add_new_entry">clicked add button</string>
+    <string name="info_text">This is the Skeleton App</string>
+    <string name="contentDescriptionLogo">logo</string>
+</resources>
